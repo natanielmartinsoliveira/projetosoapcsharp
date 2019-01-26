@@ -1,0 +1,13 @@
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\Processa_dados.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\Processa_dados.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\itextsharp.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\itextsharp.pdfa.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\itextsharp.xmlworker.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\bin\Debug\itextsharp.xtra.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\Processa_dados.processa.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\Processa_dados.Properties.Resources.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\Processa_dados.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Processa_dados\obj\x86\Debug\Processa_dados.pdb

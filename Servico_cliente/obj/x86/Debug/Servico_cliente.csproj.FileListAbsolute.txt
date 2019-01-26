@@ -1,0 +1,27 @@
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.pdfa.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.xmlworker.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.xtra.dll
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.ProjectInstaller.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.exe.config
+C:\COIN-GENERETOR\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.exe.config
+C:\COIN-GENERETOR\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.exe
+C:\COIN-GENERETOR\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.exe.config
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\Servico_cliente.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.dll
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.pdfa.dll
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\bin\Debug\itextsharp.xtra.dll
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.ProjectInstaller.resources
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Servico_cliente\obj\x86\Debug\Servico_cliente.csproj.GenerateResource.Cache

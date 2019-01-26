@@ -1,0 +1,9 @@
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\bin\Release\Controle.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\bin\Release\Controle.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\Controle.Controleprincipal.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\Controle.Properties.Resources.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\Controle.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Release\Controle.pdb

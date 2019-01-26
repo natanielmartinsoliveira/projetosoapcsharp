@@ -1,0 +1,9 @@
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\bin\Release\Alerta.exe
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\bin\Release\Alerta.pdb
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\Alerta.Form1.resources
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\Alerta.Properties.Resources.resources
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\Alerta.exe
+C:\Users\nataniel\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Release\Alerta.pdb

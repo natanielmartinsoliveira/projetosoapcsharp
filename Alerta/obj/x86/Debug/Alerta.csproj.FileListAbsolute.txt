@@ -1,0 +1,16 @@
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\bin\Debug\Alerta.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\bin\Debug\Alerta.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.Form1.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.Properties.Resources.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\bin\Debug\Alerta.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\bin\Debug\Alerta.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.Form1.resources
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.Properties.Resources.resources
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.csproj.GenerateResource.Cache
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Alerta\obj\x86\Debug\Alerta.pdb

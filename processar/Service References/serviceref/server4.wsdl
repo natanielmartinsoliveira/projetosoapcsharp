@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://localhost/soap/HelloExample" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://localhost/soap/HelloExample" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://localhost/soap/HelloExample">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="GetProximoRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="GetProximoResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetDadosRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="GetDadosResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusResponse">
+    <wsdl:part name="return" type="xsd:boolean" />
+  </wsdl:message>
+  <wsdl:message name="IfUltimoListaRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+    <wsdl:part name="inicio" type="xsd:int" />
+    <wsdl:part name="ultimo" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="IfUltimoListaResponse">
+    <wsdl:part name="return" type="xsd:boolean" />
+  </wsdl:message>
+  <wsdl:message name="GetProcessoOpenRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="GetProcessoOpenResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetCaminhoProcessRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="GetCaminhoProcessResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="InserirArqRequest">
+    <wsdl:part name="ID" type="xsd:int" />
+    <wsdl:part name="id_dado" type="xsd:int" />
+    <wsdl:part name="caminho" type="xsd:string" />
+    <wsdl:part name="status" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="InserirArqResponse">
+    <wsdl:part name="return" type="xsd:boolean" />
+  </wsdl:message>
+  <wsdl:portType name="HelloExamplePortType">
+    <wsdl:operation name="GetProximo">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:GetProximoRequest" />
+      <wsdl:output message="tns:GetProximoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDados">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:GetDadosRequest" />
+      <wsdl:output message="tns:GetDadosResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStatus">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:GetStatusRequest" />
+      <wsdl:output message="tns:GetStatusResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="IfUltimoLista">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:IfUltimoListaRequest" />
+      <wsdl:output message="tns:IfUltimoListaResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProcessoOpen">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:GetProcessoOpenRequest" />
+      <wsdl:output message="tns:GetProcessoOpenResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCaminhoProcess">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:GetCaminhoProcessRequest" />
+      <wsdl:output message="tns:GetCaminhoProcessResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="InserirArq">
+      <documentation>Some comments about function 2</documentation>
+      <wsdl:input message="tns:InserirArqRequest" />
+      <wsdl:output message="tns:InserirArqResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HelloExampleBinding" type="tns:HelloExamplePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="GetProximo">
+      <soap:operation soapAction="urn:MyServicewsdl#GetProximo" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDados">
+      <soap:operation soapAction="urn:MyServicewsdl#GetDados" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatus">
+      <soap:operation soapAction="urn:MyServicewsdl#GetStatus" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IfUltimoLista">
+      <soap:operation soapAction="urn:MyServicewsdl#IfUltimoLista" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProcessoOpen">
+      <soap:operation soapAction="urn:MyServicewsdl#GetProcessoOpen" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCaminhoProcess">
+      <soap:operation soapAction="urn:MyServicewsdl#GetCaminhoProcess" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InserirArq">
+      <soap:operation soapAction="urn:MyServicewsdl#InserirArq" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="urn:MyServicewsdl" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HelloExample">
+    <wsdl:port name="HelloExamplePort" binding="tns:HelloExampleBinding">
+      <soap:address location="http://localhost:82/soap/server4.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

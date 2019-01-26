@@ -1,0 +1,16 @@
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\bin\Debug\Controle.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\bin\Debug\Controle.pdb
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.Controleprincipal.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.Properties.Resources.resources
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.exe
+c:\users\nataniel\documents\visual studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\bin\Debug\Controle.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\bin\Debug\Controle.pdb
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.Controleprincipal.resources
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.Properties.Resources.resources
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.exe
+C:\Users\AFAG\Documents\Visual Studio 2010\Projects\Servico_cliente\Controle\obj\x86\Debug\Controle.pdb
